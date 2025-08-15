@@ -1,13 +1,14 @@
-Step 1
-
 # VCS Task – Git & GitHub Hands-on
 
 This repository contains the solution for the VCS Task. All scripts, branches, and Git operations have been completed using **Git Bash / Shell**. Screenshots of each step are included.
 
 ---
 
-## **Step 1 – Create Folder & Scripts**
+## ****
 ```bash
+
+Step 1 – Create Folder & Scripts
+
 mkdir vcs-task
 cd vcs-task
 echo "echo Hello from script1" > script1.sh
