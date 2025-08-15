@@ -14,7 +14,6 @@ cd vcs-task
 echo "echo Hello from script1" > script1.sh
 echo "echo Hello from script2" > script2.sh
 ls
-<img width="578" height="360" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ec2dc120-27e5-4db4-ae95-30231352a03c" />
 
 
 Step 2 – Initialize Git & Commit
